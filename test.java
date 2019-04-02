@@ -3,4 +3,8 @@ class Simple{
      System.out.println("Hello Java");  
     }  
 }  
+bannana
+bomo
+lime
+sugarcan
 System.out.println("Hello Amaran");
