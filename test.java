@@ -3,6 +3,8 @@ class Simple{
      System.out.println("Hello Java");  
     }  
 }  
-apple
-orange
-System.out.println("Hello vijayan");
+bannana
+bomo
+lime
+sugarcan
+System.out.println("Hello Amaran");
